@@ -17,6 +17,10 @@ int main(void)
 		i = 48;
 		while (i < 58)
 		{
+			putchar(e);
+			putchar(i);
+			if (i == 57 && e == 57)
+			{
 			break;
 		}
 		putchar(',');
