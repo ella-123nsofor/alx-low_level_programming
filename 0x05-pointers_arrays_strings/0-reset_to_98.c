@@ -5,8 +5,8 @@
  * that's pointed to by the argument to 98
  * @n: pointer variable
  */
-void reset_to_98(int *n)
+void reset_to_98(int *n);
 	int main;
-{
+({
 	*n = 98;
 }
