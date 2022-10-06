@@ -22,7 +22,7 @@ int _isNum(char *num)
 }
 
 /**
- *  *_memset - copies a character to the firstn characters of the string pointed
+ * *_memset - copies a character to the firstn characters of the string pointed
  *  @s: original string
  *  @b: value to remplace
  *  @n: number of bytes
